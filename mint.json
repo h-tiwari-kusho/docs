@@ -31,12 +31,12 @@
         {
             "name": "Community",
             "icon": "slack",
-            "url": "https://mintlify.com/community"
+            "url": "https://join.slack.com/t/kushoai/shared_invite/zt-2kc11buz4-m1qD3VRKxAFus9WfEKpovQ"
         },
         {
             "name": "Blog",
             "icon": "newspaper",
-            "url": "https://mintlify.com/blog"
+            "url": "https://blog.kusho.ai/"
         }
     ],
     "navigation": [
