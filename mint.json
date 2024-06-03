@@ -18,18 +18,14 @@
     "topbarLinks": [
         {
             "name": "Support",
-            "url": "mailto:hi@mintlify.com"
+            "url": "mailto:support@kusho.ai"
         }
     ],
     "topbarCtaButton": {
         "name": "Dashboard",
-        "url": "https://dashboard.mintlify.com"
+        "url": "https://app.kusho.ai"
     },
     "tabs": [
-        {
-            "name": "API Reference",
-            "url": "api-reference"
-        }
     ],
     "anchors": [
         {
