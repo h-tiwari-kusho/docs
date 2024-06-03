@@ -26,7 +26,6 @@
         "url": "https://app.kusho.ai"
     },
     "tabs": [
-        {}
     ],
     "anchors": [
         {
@@ -59,7 +58,7 @@
                 "essentials/navigation",
                 "essentials/reusable-snippets"
             ]
-        },
+        }
     ],
     "footerSocials": {
         "x": "https://x.com/kushoai",
