@@ -25,7 +25,9 @@
         "name": "Dashboard",
         "url": "https://app.kusho.ai"
     },
-    "tabs": [],
+    "tabs": [
+        {}
+    ],
     "anchors": [
         {
             "name": "Community",
